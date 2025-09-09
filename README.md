@@ -11,5 +11,7 @@ For discussions and meetings, we use **Teams** as our communication channel.
 2. Changes are committed and pushed to the `main` branch (or feature branches if needed).
 3. Before pushing, everyone pulls the latest version to avoid conflicts.
 4. Larger changes can be merged via Pull Requests for clarity.
+5. Make changes
+
 
 
