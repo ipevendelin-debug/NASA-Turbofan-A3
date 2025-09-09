@@ -1,0 +1,11 @@
+# MATLAB files
+*.asv
+*.bak
+*.mat
+*.fig
+*.slx
+*.m~
+# Large data files
+data/*
+# Other
+*.log
